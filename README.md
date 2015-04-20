@@ -1,5 +1,7 @@
 # Ivapi
 
+[![Join the chat at https://gitter.im/jpalumickas/ivapi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jpalumickas/ivapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Gem which helps to communicate with Interneto vizija [http://iv.lt][iv.lt] ([http://dedikuoti.lt][dedikuoti.lt]) API.
 
 [![Gem Version](http://img.shields.io/gem/v/ivapi.svg?style=flat)][rubygems]
